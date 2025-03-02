@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          submodules: true  # Ensure themes are pulled
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
