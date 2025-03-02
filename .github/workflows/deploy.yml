@@ -16,9 +16,11 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-
-      - name: Build Site
-        run: hugo --minify
+      
+      - name: Build Site (Clean)
+        run: |
+          rm -rf public/*
+          hugo --cleanDestinationDir --minify
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
