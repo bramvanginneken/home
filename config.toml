@@ -1,2 +1,4 @@
 baseURL = "https://bramvanginneken.github.io/"
+languageCode = "en"
+title = "Bram van Ginneken"
 theme = "ananke"
