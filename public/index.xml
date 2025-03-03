@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bram van Ginneken</title>
-    <link>https://bramvanginneken.github.io/</link>
-    <description>Recent content on Bram van Ginneken</description>
+    <title>Home on Bram van Ginneken</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Bram van Ginneken</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://bramvanginneken.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;&#xA;&lt;p&gt;Bram van Ginneken was born in Nuenen in 1970. He studied Physics at Eindhoven University of Technology and Utrecht University. In 2001, he obtained his &lt;a href=&#34;https://www.diagnijmegen.nl/publications/ginn01a&#34;&gt;PhD with a thesis titled &amp;quot;Computer-Aided Diagnosis in Chest Radiography&amp;quot;&lt;/a&gt; at the &lt;a href=&#34;https://www.isi.uu.nl/&#34;&gt;Image Sciences Institute&lt;/a&gt;, where he continued to work and set up a research group on medical image analysis. His PhD research resulted in medical device software called &lt;a href=&#34;https://www.delft.care/cad4tb/&#34;&gt;CAD4TB&lt;/a&gt;. With installations in over 75 countries worldwide, CAD4TB is the most widely used autonomous AI solution for the interpretation of medical images. In 2010, he moved to Radboud University Medical Center where he set up the &lt;a href=&#34;https://www.diagnijmegen.nl/&#34;&gt;Diagnostic Image Analysis Group&lt;/a&gt; and was appointed full professor in 2012. He &lt;a href=&#34;http://scholar.google.com/citations?user=O1j6_MsAAAAJ&#34;&gt;(co-)authored over 300 publications&lt;/a&gt; in international journals. Since 2010, he also works for the &lt;a href=&#34;https://www.mevis.fraunhofer.de/&#34;&gt;Fraunhofer Institute for Digital Medicine MEVIS&lt;/a&gt; in Bremen, Germany. In 2014, he founded &lt;a href=&#34;https://thirona.eu/&#34;&gt;Thirona&lt;/a&gt;, a company that develops software for CT lung image analysis. He pioneered the concept of challenges in medical image analysis and created &lt;a href=&#34;https://grand-challenge.org&#34;&gt;grand-challenge.org&lt;/a&gt;. In 2024, he founded &lt;a href=&#34;https://plain-medical.com&#34;&gt;Plain Medical&lt;/a&gt;, a company that develops AI solutions to reduce the workload of radiologists.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Long Biography</title>
+      <link>http://localhost:1313/posts/bio/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bio/</guid>
+      <description>&lt;h2 id=&#34;youth&#34;&gt;Youth&lt;/h2&gt;&#xA;&lt;p&gt;I grew up in the south of the Netherlands, in &lt;a href=&#34;https://en.wikipedia.org/wiki/Nuenen&#34;&gt;Nuenen&lt;/a&gt;, a village best known for the fact that Vincent van Gogh was unhappy there for a few years of his life. The second most famous person from Nuenen, dixit Wikipedia, is a computer scientist! Edsger W. Dijkstra lived a few streets away from where I was born. My niece was his neighbor for a while. Dijkstra&amp;rsquo;s &lt;a href=&#34;https://www.cs.utexas.edu/users/EWD/&#34;&gt;Archive&lt;/a&gt; is amazing. It has a lot of handwritten manuscripts, even from after 2000. Because, after all, a real computer scientist only needs a pencil and a piece of paper.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
