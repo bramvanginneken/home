@@ -1,0 +1,5 @@
+CheckInternalLinks: true
+CheckExternal: true
+IgnoreURLs:
+  - "https://example.com"  # Add any URLs to ignore
+HTTPTimeout: 10

@@ -1,0 +1,60 @@
+target does not exist --- index.html --> /livereload.js?mindelay=10&v=2&port=1313&path=livereload
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- index.html --> http://localhost:1313/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- index.html --> http://localhost:1313/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- index.html --> http://localhost:1313/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- index.html --> http://localhost:1313/posts/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- index.html --> http://localhost:1313/posts/
+Non-OK status: 999 --- index.html --> https://www.linkedin.com/in/bramvanginneken/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/page/1/index.html --> http://localhost:1313/posts/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/page/1/index.html --> http://localhost:1313/posts/
+target does not exist --- posts/bio/index.html --> /livereload.js?mindelay=10&v=2&port=1313&path=livereload
+Get "http://localhost:1313/posts/bio/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/bio/index.html --> http://localhost:1313/posts/bio/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/bio/index.html --> http://localhost:1313/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/bio/index.html --> http://localhost:1313/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/bio/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/bio/index.html --> http://localhost:1313/posts/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/bio/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/bio/index.html --> http://localhost:1313/posts/
+target does not exist --- posts/index.html --> /livereload.js?mindelay=10&v=2&port=1313&path=livereload
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/index.html --> http://localhost:1313/posts/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/index.html --> http://localhost:1313/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/index.html --> http://localhost:1313/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/index.html --> http://localhost:1313/posts/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- posts/index.html --> http://localhost:1313/posts/
+target does not exist --- 404.html --> /livereload.js?mindelay=10&v=2&port=1313&path=livereload
+Get "http://localhost:1313/404.html": dial tcp 127.0.0.1:1313: connect: connection refused --- 404.html --> http://localhost:1313/404.html
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- 404.html --> http://localhost:1313/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- 404.html --> http://localhost:1313/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- 404.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- 404.html --> http://localhost:1313/posts/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- 404.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- 404.html --> http://localhost:1313/posts/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- 404.html --> http://localhost:1313/
+target does not exist --- about/index.html --> /livereload.js?mindelay=10&v=2&port=1313&path=livereload
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- about/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- about/index.html --> http://localhost:1313/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- about/index.html --> http://localhost:1313/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- about/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- about/index.html --> http://localhost:1313/posts/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- about/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- about/index.html --> http://localhost:1313/posts/
+target does not exist --- tags/index.html --> /livereload.js?mindelay=10&v=2&port=1313&path=livereload
+Get "http://localhost:1313/tags/": dial tcp 127.0.0.1:1313: connect: connection refused --- tags/index.html --> http://localhost:1313/tags/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- tags/index.html --> http://localhost:1313/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- tags/index.html --> http://localhost:1313/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- tags/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- tags/index.html --> http://localhost:1313/posts/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- tags/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- tags/index.html --> http://localhost:1313/posts/
+target does not exist --- categories/index.html --> /livereload.js?mindelay=10&v=2&port=1313&path=livereload
+Get "http://localhost:1313/categories/": dial tcp 127.0.0.1:1313: connect: connection refused --- categories/index.html --> http://localhost:1313/categories/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- categories/index.html --> http://localhost:1313/
+Get "http://localhost:1313/": dial tcp 127.0.0.1:1313: connect: connection refused --- categories/index.html --> http://localhost:1313/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- categories/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- categories/index.html --> http://localhost:1313/posts/
+Get "http://localhost:1313/about/": dial tcp 127.0.0.1:1313: connect: connection refused --- categories/index.html --> http://localhost:1313/about/
+Get "http://localhost:1313/posts/": dial tcp 127.0.0.1:1313: connect: connection refused --- categories/index.html --> http://localhost:1313/posts/

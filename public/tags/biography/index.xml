@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biography on Bram van Ginneken</title>
+    <link>http://localhost:1313/tags/biography/</link>
+    <description>Recent content in Biography on Bram van Ginneken</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/biography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Biography</title>
+      <link>http://localhost:1313/posts/bio/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bio/</guid>
+      <description>&lt;h2 id=&#34;youth&#34;&gt;Youth&lt;/h2&gt;&#xA;&lt;p&gt;I grew up in the south of the Netherlands, in &lt;a href=&#34;https://en.wikipedia.org/wiki/Nuenen&#34;&gt;Nuenen&lt;/a&gt;, a village best known for the fact that Vincent van Gogh was unhappy there for a few years of his life. The second most famous person from Nuenen, dixit Wikipedia, is a computer scientist! Edsger W. Dijkstra lived a few streets away from where I was born. My niece was his neighbor for a while. Dijkstra&amp;rsquo;s &lt;a href=&#34;https://www.cs.utexas.edu/users/EWD/&#34;&gt;Archive&lt;/a&gt; is amazing. It has a lot of handwritten manuscripts, even from after 2000. Because, after all, a real computer scientist only needs a pencil and a piece of paper.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
