@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Bram van Ginneken</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thira Lab</title>
+      <link>http://localhost:1313/posts/thira-lab/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thira-lab/</guid>
+      <description>&lt;h2 id=&#34;icai&#34;&gt;ICAI&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.icai.ai/&#34;&gt;ICAI&lt;/a&gt; labs are a concept initiated at the University of Amsterdam to encourage more collaborations between Dutch universities and companies and societal organizations in the area of artificial intelligence. It&amp;rsquo;s something I always tried to do in my own research group, because the only way to bring the results of our research to the clinic is by working with companies. I&amp;rsquo;ve seen many attempts by academics to do that themselves, providing their software to doctors, maintaining support for that software, and this tends to fail, unfortunately. Companies have been co-funding my research from the beginning, but the ICAI concept gave me an opportunity to take this to the next level. An ICAI lab has at least 5 PhD students and it&amp;rsquo;s a great vehicle to showcase your collaboration with companies in your field. When I learned about it, I started talking to the ICAI people and we decided to set up the first such lab in Nijmegen: Thira Lab. It was a collaboration between my group, &lt;a href=&#34;https://delft.care/&#34;&gt;Delft Imaging&lt;/a&gt; and &lt;a href=&#34;https://thirona.eu/&#34;&gt;Thirona&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Biography #1</title>
       <link>http://localhost:1313/posts/bio/</link>
